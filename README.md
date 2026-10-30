@@ -1,5 +1,5 @@
 ﻿# Out of Seconds
-30-second endless runner (raylib 5.5, single file `src/main.c`, sprite sheet in `assets/runner.png` (46 frames, 48x44 cells; packed into the APK assets root on Android)). Menu: RUN / UPGRADES / EXIT.
+30-second endless runner (raylib 5.5, single file `src/main.c`, art in `assets/` (mishu_*.png, facades*.png, skyline.png; packed into the APK assets root on Android). Generation/preview tooling lives in `generation and previews/`). Menu: RUN / UPGRADES / EXIT.
 
 Controls (keyboard / touch buttons):
 - Jump: Space / W / Up
